@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2050
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "ReportForGit", "ReportForGit\ReportForGit.rptproj", "{3F61D69B-9964-4AAA-9923-8F24B387BE4F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F61D69B-9964-4AAA-9923-8F24B387BE4F}.Debug|Default.ActiveCfg = Debug
+		{3F61D69B-9964-4AAA-9923-8F24B387BE4F}.Debug|Default.Build.0 = Debug
+		{3F61D69B-9964-4AAA-9923-8F24B387BE4F}.Debug|Default.Deploy.0 = Debug
+		{3F61D69B-9964-4AAA-9923-8F24B387BE4F}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{3F61D69B-9964-4AAA-9923-8F24B387BE4F}.DebugLocal|Default.Build.0 = DebugLocal
+		{3F61D69B-9964-4AAA-9923-8F24B387BE4F}.Release|Default.ActiveCfg = Release
+		{3F61D69B-9964-4AAA-9923-8F24B387BE4F}.Release|Default.Build.0 = Release
+		{3F61D69B-9964-4AAA-9923-8F24B387BE4F}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D21C8EF6-2D8F-421A-B95B-CF30AC27C030}
+	EndGlobalSection
+EndGlobal
